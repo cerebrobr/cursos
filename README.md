@@ -2,6 +2,8 @@
 
 Seja bem vindo ao CEREBRO Cursos. Neste espaço teremos uma relação de cursos online gratuitos em português.
 
+- [Curso Python para Zumbis](http://pycursos.com/python-para-zumbis/)
+
 ## Contribuições
 
 - Por favor, antes de realizar o _pull request_, leia o [Guia de Contribuição](https://github.com/cerebrobr/cerebro/blob/master/README.md) da nossa organização.
